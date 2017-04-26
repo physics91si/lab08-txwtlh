@@ -1,6 +1,6 @@
 # Physics 91SI
-# Spring 2015
-# Lab 7
+# Spring 2017
+# Lab 8
 
 import numpy as np
 

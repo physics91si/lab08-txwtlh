@@ -1,8 +1,8 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 # Physics 91SI
-# molecule 2015
-# Lab 7
+# molecule 2017
+# Lab 8
 
 # Modules you won't need
 import sys
